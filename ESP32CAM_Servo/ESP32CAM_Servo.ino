@@ -9,8 +9,8 @@ const char* ssid = "Khumba";
 const char* password = "dhanistha.89";
 
 // ================= TELEGRAM =================
-String BOT_TOKEN = "8505403651:AAHFtagu9q68-G84f-Mj9-bWJyk5Bi1dn3Q";
-String CHAT_ID   = "5294233327";
+String BOT_TOKEN = "Paste your BOT_Token";
+String CHAT_ID   = "Paste your Chat ID";
 
 // ================= CAMERA =================
 #define CAMERA_MODEL_AI_THINKER
