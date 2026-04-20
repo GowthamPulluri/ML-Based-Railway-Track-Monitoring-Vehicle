@@ -1,0 +1,42 @@
+.dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.logTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.logTable th,
+.logTable td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #444;
+}
+
+.logTable th {
+  background: #0f172a;
+}
+
+.solveBtn {
+  background: #22c55e;
+  border: none;
+  padding: 8px 14px;
+
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+.solveBtn:hover {
+  background: #16a34a;
+}
